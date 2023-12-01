@@ -1,0 +1,16 @@
+C:\Users\Galang\Desktop\Scratch\Games Folder\Games Folder\bin\Debug\Games Folder.exe.config
+C:\Users\Galang\Desktop\Scratch\Games Folder\Games Folder\bin\Debug\Games Folder.exe
+C:\Users\Galang\Desktop\Scratch\Games Folder\Games Folder\bin\Debug\Games Folder.pdb
+C:\Users\Galang\Desktop\Scratch\Games Folder\Games Folder\bin\Debug\Games Folder.xml
+C:\Users\Galang\Desktop\Scratch\Games Folder\Games Folder\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\Galang\Desktop\Scratch\Games Folder\Games Folder\obj\Debug\Games Folder.vbproj.AssemblyReference.cache
+C:\Users\Galang\Desktop\Scratch\Games Folder\Games Folder\obj\Debug\Games_Folder.Resources.resources
+C:\Users\Galang\Desktop\Scratch\Games Folder\Games Folder\obj\Debug\Games Folder.vbproj.GenerateResource.cache
+C:\Users\Galang\Desktop\Scratch\Games Folder\Games Folder\obj\Debug\Games Folder.vbproj.CoreCompileInputs.cache
+C:\Users\Galang\Desktop\Scratch\Games Folder\Games Folder\obj\Debug\Games Folder.vbproj.CopyComplete
+C:\Users\Galang\Desktop\Scratch\Games Folder\Games Folder\obj\Debug\Games Folder.exe
+C:\Users\Galang\Desktop\Scratch\Games Folder\Games Folder\obj\Debug\Games Folder.xml
+C:\Users\Galang\Desktop\Scratch\Games Folder\Games Folder\obj\Debug\Games Folder.pdb
+C:\Users\Galang\Desktop\Scratch\Games Folder\Games Folder\obj\Debug\Games_Folder.Main.resources
+C:\Users\Galang\Desktop\Scratch\Games Folder\Games Folder\obj\Debug\Games_Folder.Maze.resources
+C:\Users\Galang\Desktop\Scratch\Games Folder\Games Folder\obj\Debug\Games_Folder.Puzzle.resources
